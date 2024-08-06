@@ -48,7 +48,7 @@ The Food Order Website is designed to help users order their favorite foods with
 
 <img src="./Project Images/vyfoody5.PNG" width="340" height="auto" />
 
-**## Admin Screenshots**
+## Admin Screenshots
 
 ### **Add Food Item**
 
