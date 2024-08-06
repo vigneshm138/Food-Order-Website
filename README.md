@@ -22,30 +22,30 @@ The Food Order Website is designed to help users order their favorite foods with
 
 -The main landing page where users can view featured foods, menus, and other promotional content.<br>
 
-<img src="./Project Images/vyfoody1.PNG" width="600" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody1.PNG" width="600" height="auto" style="border-radius: 10px;"/>
 
 ### **Food Menu Filter**
 
 -The interface showing the food menu filter options that allow users to narrow down their choices based on various criteria.<br>
 
-<img src="./Project Images/vyfoody2.PNG" width="600" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody2.PNG" width="600" height="auto" style="border-radius: 10px;"/>
 
 ### **Food Details**
 
 -Detailed view of a selected food item including description, price, and options <br>
-<img src="./Project Images/vyfoody3.PNG" width="600" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody3.PNG" width="600" height="auto" style="border-radius: 10px;"/>
 
 ### **Cart Overview**
 
 -The shopping cart page where users can review their selected items and proceed to checkout.<br>
 
-<img src="./Project Images/vyfoody4.PNG" width="600" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody4.PNG" width="600" height="auto" style="border-radius: 10px;"/>
 
 ### **User Login**
 
 -The login page where users enter their credentials to access their account.<br>
 
-<img src="./Project Images/vyfoody5.PNG" width="340" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody5.PNG" width="340" height="auto" style="border-radius: 10px;"/>
 
 **## Admin Screenshots**
 
@@ -53,10 +53,10 @@ The Food Order Website is designed to help users order their favorite foods with
 
 -The admin interface for adding new food items to the menu, including fields for entering details like name, description, price, and image.<br>
 
-<img src="./Project Images/vyfoody6.PNG" width="600" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody6.PNG" width="600" height="auto" style="border-radius: 10px;"/>
 
 ### **Delete Food Item**
 
 -The interface for deleting existing food items from the menu, showing the confirmation step to ensure the item is removed.<br>
 
-<img src="./Project Images/vyfoody7.PNG" width="600" height="auto" style="border-radius: 10px;"
+<img src="./Project Images/vyfoody7.PNG" width="600" height="auto" style="border-radius: 10px;"/>
